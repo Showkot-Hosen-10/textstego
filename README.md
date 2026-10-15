@@ -16,7 +16,7 @@ Trained on IMDB, externally validated on WikiText-2 and SMS Spam, with all four 
 
 ## Pipeline
 
-![Methodology](figure/method.png)
+![Methodology](figure/textstegomet.png)
 
 Detect (LightGBM-Lite, 17 interpretable features) → Explain (exact TreeSHAP) → Reveal (decoder of the predicted channel). Baselines: rule baseline, TextCNN, ALBERT, RoBERTa, Qwen2.5-0.5B + LoRA.
 

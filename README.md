@@ -3,7 +3,7 @@ license: mit
 tags: [steganalysis, text-steganography, lightgbm, albert, shap, explainable-ai]
 ---
 # Text Steganography Detector + Reveal
-
+[![DOI](https://zenodo.org/badge/1420949648.svg)](https://doi.org/10.5281/zenodo.23403109)
 [![Kaggle Notebook](https://img.shields.io/badge/Kaggle-Notebook-20BEFF?logo=kaggle&logoColor=white)](https://www.kaggle.com/code/showkothosen/textstego5)
 ![License](https://img.shields.io/badge/license-MIT-green)
 

@@ -3,10 +3,10 @@ license: mit
 tags: [steganalysis, text-steganography, lightgbm, albert, shap, explainable-ai]
 ---
 # Text Steganography Detector + Reveal
-
+[![DOI](https://zenodo.org/badge/1420949648.svg)](https://doi.org/10.5281/zenodo.23403109)
 [![Kaggle Notebook](https://img.shields.io/badge/Kaggle-Notebook-20BEFF?logo=kaggle&logoColor=white)](https://www.kaggle.com/code/showkothosen/textstego5)
 ![License](https://img.shields.io/badge/license-MIT-green)
-[![DOI](https://zenodo.org/badge/1420949648.svg)](https://doi.org/10.5281/zenodo.23403109)
+
 Lightweight, explainable **4-class detection** (**Clean / ZeroWidth / Whitespace / Synonym**) of format- and substitution-based text steganography, with **SHAP reasons for every alert** and **automatic payload recovery**.
 Trained on IMDB, externally validated on WikiText-2 and SMS Spam, with all four variants of a cover text kept in the same split (no cover-text leakage).
 

@@ -1,0 +1,19 @@
+,,recovery,BER
+none,ZeroWidth,1.0,0.0
+none,Whitespace,1.0,0.0
+none,Synonym,1.0,0.0
+NFKC,ZeroWidth,1.0,0.0
+NFKC,Whitespace,1.0,0.0
+NFKC,Synonym,1.0,0.0
+strip invisible,ZeroWidth,0.0,1.0
+strip invisible,Whitespace,1.0,0.0
+strip invisible,Synonym,1.0,0.0
+collapse spaces,ZeroWidth,1.0,0.0
+collapse spaces,Whitespace,0.0,0.35422776148582596
+collapse spaces,Synonym,1.0,0.0
+platform (all 3),ZeroWidth,0.0,1.0
+platform (all 3),Whitespace,0.0,0.35422776148582596
+platform (all 3),Synonym,1.0,0.0
+truncate 50%,ZeroWidth,1.0,0.0
+truncate 50%,Whitespace,1.0,0.0
+truncate 50%,Synonym,0.2727272727272727,0.10764907135874877
